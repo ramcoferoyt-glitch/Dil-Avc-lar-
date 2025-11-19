@@ -1,0 +1,8 @@
+{
+  "name": "Copy of DİL AVCILARI",
+  "description": "Dil Avcıları için yapay zeka destekli oyun yönetim sistemi.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
